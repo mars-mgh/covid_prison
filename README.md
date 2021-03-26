@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 5: COVID-19's Impact on the U.S. Prison System
+# COVID-19's Impact on the U.S. Prison System
 
 by Marta Ghiglioni, Sheena Cook, and Edward Mendoza 
 
