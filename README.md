@@ -40,7 +40,7 @@ We performed basic exploratory data analysis and consequential data cleaning. Mo
 
 We also generated a "State Heat Map" that visualized the number of prisoner/covid-19 cases per capita to accurately display the rate of prisoner cases by the prisoner population. The result is shown below:
 
-![covid-19](https://git.generalassemb.ly/edwardmendoza89/Project_5_shared/blob/master/Edward/images/covid_19_heatmap.png)
+![covid-19](./Edward/images/covid_19_heatmap.png)
 
 ---
 
