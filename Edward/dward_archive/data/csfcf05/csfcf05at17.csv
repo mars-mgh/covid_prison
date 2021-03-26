@@ -1,0 +1,79 @@
+Bureau of Justice Statistics,,,,,
+Filename: csfcf05at17.csv,,,,,
+"Appendix table 17.  Number of correctional facilities under state or federal authority that provided work release and number of inmates participating in work release, December 30, 2005",,,,,
+"Report title: Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,
+Author:  James J. Stephan ,,,,,
+Refer questions to: askbjs@usdoj.gov (202)307-0765,,,,,
+Date of version:  09/30/08,,,,,
+
+"Appendix table 17.  Number of correctional facilities under state or federal authority that provided work release and number of inmates participating in work release, December 30, 2005",,,,,
+
+Region and authority,,Total  facilities,Total inmates,Facilities providing work release,Inmates participating in work release
+U.S. total,,"1,821","1,430,208",502,"24,739"
+,Public/a,"1,406","1,321,685",288,"14,758"
+,Private,415,"108,523",214,"9,981"
+,Federal,102,"145,780",0,0
+,State/b,"1,719","1,284,428",502,"24,739"
+Region (excluding federal),,,,,
+Northeast,,268,"171,465",80,"3,344"
+,Connecticut,49,"19,019",19,413
+,Maine,7,"1,968",4,68
+,Massachusetts/c,17,"10,262",5,316
+,New Hampshire,8,"2,373",4,129
+,New Jersey,42,"25,724",17,802
+,New York,77,"63,855",12,981
+,Pennsylvania,52,"43,254",15,590
+,Rhode Island,7,"3,414",2,33
+,Vermont,9,"1,596",2,12
+Midwest,,342,"255,134",120,"6,553"
+,Illinois/d,44,"44,669",6,440
+,Indiana,23,"23,205",5,319
+,Iowa,31,"10,145",21,"1,546"
+,Kansas,13,"9,474",8,551
+,Michigan,62,"50,082",9,192
+,Minnesota,18,"9,680",5,124
+,Missouri,28,"31,748",14,583
+,Nebraska,9,"4,371",2,172
+,North Dakota,8,"1,411",5,166
+,Ohio,59,"44,717",22,"1,211"
+,South Dakota,6,"3,451",4,243
+,Wisconsin,41,"22,181",19,"1,006"
+South,,779,"561,927",211,"10,072"
+,Alabama,33,"23,174",13,"1,452"
+,Arkansas,26,"13,921",5,630
+,Delaware,12,"6,781",4,299
+,"District of Columbia/c,e",5,300,4,144
+,Florida,109,"86,705",38,416
+,Georgia,87,"51,822",28,"1,679"
+,Kentucky,25,"14,932",8,288
+,Louisiana,23,"20,344",9,460
+,Maryland,29,"22,613",9,480
+,Mississippi,31,"16,967",0,0
+,North Carolina,88,"38,233",41,"1,135"
+,Oklahoma,53,"25,149",19,925
+,South Carolina,33,"22,537",7,452
+,Tennessee,19,"19,484",8,263
+,Texas,132,"163,556",8,840
+,Virginia,59,"31,478",7,431
+,West Virginia,15,"3,931",3,178
+West,,330,"295,902",91,"4,770"
+,Alaska,21,"4,146",7,268
+,Arizona,21,"32,855",5,145
+,California,100,"169,988",10,728
+,Colorado,58,"20,842",16,999
+,Hawaii,10,"3,951",7,257
+,Idaho,15,"5,975",7,375
+,Montana,11,"3,160",5,575
+,Nevada,22,"11,726",4,256
+,New Mexico,11,7183,2,79
+,Oregon,15,13049,3,90
+,Utah,7,5461,4,113
+,Washington,32,16146,18,739
+,Wyoming,7,1420,3,146
+Note: Information on work release programs was not available in 107 facilities.,,,,,
+a/Includes facilities operated by both federal and state authorities.,,,,,
+b/Includes private facilities.,,,,,
+c/The total number of facilities are as of June 30.,,,,,
+d/ Work release excludes public facilities.,,,,,
+"e/As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005.",,,,,

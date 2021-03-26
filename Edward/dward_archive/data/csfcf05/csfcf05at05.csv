@@ -1,0 +1,84 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: csfcf05at05.csv,,,,,,,,,
+"Appendix table 5. Number of correctional facilities under state or federal authority, by facility security level, June 30, 2000, and December 30, 2005",,,,,,,,,
+"Report title:  Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,,,,,
+Author:  James J. Stephan,,,,,,,,,
+Refer questions to: askbjs@.usdoj.gov (202)307-0765,,,,,,,,,
+Date of version:  09/30/08,,,,,,,,,
+
+"Appendix table 5.  Number of correctional facilities under state or federal authority, by facility security level, June 30, 2000, and December 30, 2005",,,,,,,,,
+
+,,Facility security level,,,,,,,
+,,Total,,Maximum/a,,Medium,,Minimum/b,
+Region and authority,,2000,2005,2000,2005,2000,2005,2000,2005
+U.S. total,,"1,668","1,821",332,372,522,480,814,969
+,Public/c,"1,404","1,406",328,364,457,437,619,605
+,Private,264,415,4,8,65,43,195,364
+,Federal,84,102,11,17,29,42,44,43
+,State/d,"1,584","1,719",321,355,493,438,770,926
+Region (excluding federal),,,,,,,,,
+Northeast,,236,268,50,52,88,85,98,131
+,Connecticut,20,49,11,10,5,3,4,36
+,Maine,8,7,2,1,2,2,4,4
+,Massachusetts/e,25,17,3,3,10,8,12,6
+,New Hampshire,8,8,2,2,3,2,3,4
+,New Jersey,43,42,5,5,11,11,27,26
+,New York,72,77,16,17,36,39,20,21
+,Pennsylvania,44,52,8,10,11,12,25,30
+,Rhode Island,7,7,3,4,3,2,1,1
+,Vermont,9,9,/, /,7,6,2,3
+Midwest,,301,342,72,81,83,83,146,178
+,Illinois/f,48,44,7,5,11,15,30,24
+,Indiana,25,23,2,4,11,9,12,10
+,Iowa,30,31,2,2,6,6,22,23
+,Kansas,11,13,6,6,1,1,4,6
+,Michigan,70,62,19,21,12,12,39,29
+,Minnesota,9,18,5,4,4,5,/,9
+,Missouri,28,28,9,12,8,5,11,11
+,Nebraska,9,9,4,6,1,1,4,2
+,North Dakota,3,8,1,1,1,1,1,6
+,Ohio,34,59,11,11,17,15,6,33
+,South Dakota,4,6,/,2,3,1,1,3
+,Wisconsin,30,41,6,7,8,12,16,22
+South,,743,779,155,169,245,203,343,407
+,Alabama,36,33,5,5,10,9,21,19
+,Arkansas,15,26,2,2,8,14,5,10
+,Delaware,9,12,2,3,2,2,5,7
+,District of Columbia/g,8,5,1,0,2,0,5,5
+,Florida,106,109,50,53,12,10,44,46
+,Georgia,84,87,18,19,29,25,37,43
+,Kentucky,25,25,2,4,9,8,14,13
+,Louisiana,17,23,4,4,6,8,7,11
+,Maryland,26,29,6,5,5,6,15,18
+,Mississippi,28,31,1,2,8,7,19,22
+,North Carolina,80,88,12,13,24,25,44,50
+,Oklahoma,52,53,4,2,13,11,35,40
+,South Carolina,34,33,7,8,9,9,18,16
+,Tennessee,15,19,2,7,12,7,1,5
+,Texas,136,132,26,25,76,45,34,62
+,Virginia,61,59,9,14,18,16,34,29
+,West Virginia,11,15,4,3,2,1,5,11
+West,,304,330,44,53,77,67,183,210
+,Alaska,24,21,5,7,6,5,13,9
+,Arizona,18,21,5,8,5,2,8,11
+,California,92,100,12,7,24,21,56,72
+,Colorado,48,58,8,11,10,11,30,36
+,Hawaii,10,10,/,2,5,4,5,4
+,Idaho,13,15,2,2,2,3,9,10
+,Montana,8,11,2,2,1,2,5,7
+,Nevada,20,22,1,1,7,6,12,15
+,New Mexico,10,11,1,3,5,4,4,4
+,Oregon,13,15,1,2,6,4,6,9
+,Utah,9,7,/,1,3,1,6,5
+,Washington,30,32,5,5,2,4,23,23
+,Wyoming,9,7,2,2,1,/,6,5
+"Note: Security level refers to the overall security rating of the facility, rather than to the custody classification of the inmates housed in them. See Methodology for facility security level definitions.",,,,,,,,,
+"/No one facility under state authority was reported to operate predominately at one (maximum, medium, or minimum) security level.",,,,,,,,,
+"a/Includes facilities classified as super maximum, close, or high.",,,,,,,,,
+"b/Includes facilities classified as low, or with no security level designated. ",,,,,,,,,
+c/Includes facilities operated by both federal and state authorities.,,,,,,,,,
+d/Includes private facilities.
+"e/Facilitiy security levels are estimated based on information reported as of June 30, 2000."
+f/The total number of facilities in 2005 were reported by the Illinois Department of Corrections as of June 30.
+"g/As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005."

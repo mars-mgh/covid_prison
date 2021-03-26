@@ -1,0 +1,73 @@
+Bureau of Justice Statistics,,,,,
+Filename: csfcf05at08.csv ,,,,,
+"Appendix table 8. Number of private correctional facilities under contract to state or federal authorities and average daily population, June 30, 2000, and December 30, 2005",,,,,
+"Report title: Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,
+"Data sources: Censuses of State and Federal Correctional Facilities, 2000 and 2005",,,,,
+Author:  James J. Stephan ,,,,,
+Refer questions to: askbjs@usdoj.gov (202)307-0765,,,,,
+Date of version:  09/30/08,,,,,
+
+"Appendix table 8. Number of private correctional facilities under contract to state or federal authorities and average daily population, June 30, 2000, and December 30, 2005",,,,,
+
+,,Number of facilities,,Average daily population,
+Region and authority,,2000,2005,2000,2005
+U.S. total,,264,415,"91,184","105,451"
+,Federal,26,132,"14,841","22,801"
+,State,238,283,"76,343","82,650"
+Region (excluding federal),,,,,
+Northeast,,28,61,"3,130","4,619"
+,Connecticut,0,30,0,"1,029"
+,Maine,0,0,0,0
+,Massachusetts,2,0,21,0
+,New Hampshire,0,0,0,0
+,New Jersey,21,21,"2,608","2,577"
+,New York,0,0,0,0
+,Pennsylvania,5,10,501,"1,013"
+,Rhode Island,0,0,0,0
+,Vermont,0,0,0,0
+Midwest,,10,48,"4,240","6,468"
+,Illinois,1,3,293,197
+,Indiana,1,1,108,19
+,Iowa,1,0,48,0
+,Kansas,2,2,171,192
+,Michigan,0,3,0,99
+,Minnesota,1,6,"1,078","1,070"
+,Missouri,0,0,0,0
+,Nebraska,0,0,0,0
+,North Dakota,0,3,0,155
+,Ohio,3,28,"2,470","4,709"
+,South Dakota,1,0,72,0
+,Wisconsin,0,2,0,27
+South,,98,92,"51,176","53,000"
+,Alabama,1,0,60,0
+,Arkansas,1,0,"1,246",0
+,Delaware,0,0,0,0
+,District of Columbia*,4,5,405,300
+,Florida,8,15,"3,819","5,739"
+,Georgia,5,3,"3,059","4,644"
+,Kentucky,12,12,"2,301","2,785"
+,Louisiana,7,8,"3,487","3,580"
+,Maryland,3,4,120,167
+,Mississippi,5,6,"3,625","5,683"
+,North Carolina,1,3,20,207
+,Oklahoma,14,14,"8,502","7,802"
+,South Carolina,0,0,0,0
+,Tennessee,3,3,"4,974","5,087"
+,Texas,33,17,"18,009","15,131"
+,Virginia,1,2,"1,549","1,875"
+,West Virginia,0,0,0,0
+West,,102,82,"17,797","18,563"
+,Alaska,11,8,641,653
+,Arizona,6,4,"2,119","2,391"
+,California,43,16,"5,895","2,658"
+,Colorado,24,33,"4,290","6,195"
+,Hawaii,2,2,40,100
+,Idaho,1,1,70,"1,250"
+,Montana,5,8,672,"1,367"
+,Nevada,1,0,546,0
+,New Mexico,3,4,"1,920","3,566"
+,Utah,1,0,325,0
+,Washington,0,3,0,149
+,Wyoming,5,3,"1,279",234
+Note:  Private correctional facilities are staffed and managed by private correctional employees and paid by pubilc authorities through contractual agreements.,,,,,
+"*As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005.",,,,,

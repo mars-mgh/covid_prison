@@ -1,0 +1,84 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: csfcf05at14.csv,,,,,,,,,,,
+"Appendix table 14.  Number of inmates, employees, and inmate-to-staff ratios in correctional facilities under state or federal authority, June 30, 2000, and December 30, 2005",,,,,,,,,,,
+"Report title:  Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,,,,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,,,,,,,
+Author:  James J. Stephan,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov (202)307-0765,,,,,,,,,,,
+Date of version: 09/30/08,,,,,,,,,,,
+
+"Appendix table 14.  Number of  inmates, employees, and inmate-to-staff ratios in correctional facilities under state or federal authority, June 30, 2000, and December 30, 2005",,,,,,,,,,,
+
+,,,,Correctional facility employees,,,,,,,
+,,Number of inmates ,,Total employees ,,Correctional officers,,Inmates per employee ,,Inmates per correctional officer,
+Region and authority,,2000,2005,2000,2005,2000,2005,2000,2005,2000,2005
+U.S. total (estimated) /a,,,,,"445,055",,"295,261",,,,
+U.S. total (reported),,"1,305,253","1,430,208","430,033","419,637","270,317","278,398",3,3.4,4.8,5.1
+,Public/b,"1,212,176","1,321,685","405,676","393,699","255,728","262,718",3,3.4,4.7,5
+,Private,"93,077","108,523","24,357","25,938","14,589","15,680",3.8,4.2,6.4,6.9
+,Federal,"110,974","145,780","32,700","29,755","12,376","14,165",3.4,4.9,9,10.3
+,State/c,"1,194,279","1,284,428","397,333","389,882","257,941","264,233",3,3.3,4.6,4.9
+Region (excluding federal),,,,,,,,,,,
+Northeast,,"171,999","171,465","72,758","70,215","47,496","47,544",2.4,2.4,3.6,3.6
+,Connecticut,"16,984","19,019","6,670","6,402","4,488","4,516",2.5,3,3.8,4.2
+,Maine,"1,629","1,968",960,834,571,572,1.7,2.4,2.9,3.4
+,Massachusetts/d,"10,500","10,262","5,834","4,057","3,875","3,309",1.8,2.5,2.7,3.1
+,New Hampshire,"2,277","2,373","1,103",876,612,545,2.1,2.7,3.7,4.4
+,New Jersey,"27,118","25,724","9,722","9,277","6,626","6,650",2.8,2.8,4.1,3.9
+,New York,"71,938","63,855","33,050","31,573","22,108","21,331",2.2,2,3.3,3
+,Pennsylvania,"36,895","43,254","13,493","15,195","7,800","9,083",2.7,2.8,4.7,4.8
+,Rhode Island,"3,347","3,414","1,214","1,161",960,947,2.8,2.9,3.5,3.6
+,Vermont,"1,311","1,596",712,840,456,591,1.8,1.9,2.9,2.7
+Midwest,,"233,993","255,134","82,808","85,256","50,580","55,322",2.8,3,4.6,4.6
+,Illinois/e,"44,150","44,669","15,127","14,167","9,346","8,771",2.9,3.2,4.7,5.1
+,Indiana,"18,195","23,205","6,745","6,310","4,040","4,264",2.7,3.7,4.5,5.4
+,Iowa,"9,086","10,145","3,675","3,399","2,145","2,107",2.5,3,4.2,4.8
+,Kansas,"8,992","9,474","3,731","2,984","1,960","1,944",2.4,3.2,4.6,4.9
+,Michigan,"47,639","50,082","17,530","21,202","11,721","15,235",2.7,2.4,4.1,3.3
+,Minnesota,"7,451","9,680","3,478","3,611","1,957","2,131",2.1,2.7,3.8,4.5
+,Missouri,"27,963","31,748","9,297","9,439","5,448","5,625",3,3.4,5.1,5.6
+,Nebraska,"3,508","4,371","1,252","1,812",709,"1,261",2.8,2.4,4.9,3.5
+,North Dakota,992,"1,411",321,625,257,394,3.1,2.3,3.9,3.6
+,Ohio,"47,915","44,717","15,762","13,318","9,372","8,167",3,3.4,5.1,5.5
+,South Dakota,"2,591","3,451",567,804,338,473,4.6,4.3,7.7,7.3
+,Wisconsin,"15,511","22,181","5,323","7,585","3,287","4,950",2.9,2.9,4.7,4.5
+South,,"518,912","561,927","160,580","148,923","109,443","108,036",3.2,3.8,4.7,5.2
+,Alabama,"22,422","23,174","3,295","3,250","2,367","2,489",6.8,7.1,9.5,9.3
+,Arkansas,"10,465","13,921","2,626","3,559","2,195","2,713",4,3.9,4.8,5.1
+,Delaware,"6,023","6,781","1,863","1,639","1,429","1,363",3.2,4.1,4.2,5
+,District of Columbia/f,"3,767",300,"1,562",123,"1,238",51,2.4,2.4,3,5.9
+,Florida,"71,616","86,705","24,891","23,038","19,133","17,827",2.9,3.8,3.7,4.9
+,Georgia,"44,299","51,822","14,270","14,301","9,084","9,670",3.1,3.6,4.9,5.4
+,Kentucky,"12,378","14,932","3,746","3,946","2,377","2,474",3.3,3.8,5.2,6
+,Louisiana,"19,167","20,344","6,065","5,921","4,782","4,710",3.2,3.4,4,4.3
+,Maryland,"22,821","22,613","8,181","7,160","5,765","5,384",2.8,3.2,4,4.2
+,Mississippi,"14,823","16,967","4,403","3,934","3,143","2,932",3.4,4.3,4.7,5.8
+,North Carolina,"30,708","38,233","13,959","15,106","10,162","11,388",2.2,2.5,3,3.4
+,Oklahoma,"23,858","25,149","6,274","5,075","3,453","2,871",3.8,5,6.9,8.8
+,South Carolina,"21,277","22,537","6,222","5,051","4,142","3,698",3.4,4.5,5.1,6.1
+,Tennessee,"18,368","19,484","5,876","6,279","3,697","4,205",3.1,3.1,5,4.6
+,Texas,"162,440","163,556","43,678","38,097","27,424","27,737",3.7,4.3,5.9,5.9
+,Virginia,"31,412","31,478","12,133","10,697","8,246","7,599",2.6,2.9,3.8,4.1
+,West Virginia,"3,068","3,931","1,536","1,747",806,925,2,2.3,3.8,4.2
+West,,"269,375","295,902","81,187","85,488","50,422","53,331",3.3,3.5,5.3,5.5
+,Alaska,"3,248","4,146","1,310","1,339",821,896,2.5,3.1,4,4.6
+,Arizona,"30,832","32,855","10,513","8,235","7,436","6,519",2.9,4,4.1,5
+,California/g,"163,383","169,988","43,494","47,881","25,270","27,803",3.8,3.6,6.5,6.1
+,Colorado,"15,695","20,842","6,057","6,902","4,406","4,394",2.6,3,3.6,4.7
+,Hawaii,"3,761","3,951","1,805","1,724","1,229","1,251",2.1,2.3,3.1,3.2
+,Idaho,"3,961","5,975","1,290","1,473",795,971,3.1,4.1,5,6.2
+,Montana,"2,368","3,160","1,086","1,211",583,700,2.2,2.6,4.1,4.5
+,Nevada,"9,296","11,726","1,937","2,313","1,293","1,589",4.8,5.1,7.2,7.4
+,New Mexico,"5,158","7,183","2,356","2,632","1,469","1,848",2.2,2.7,3.5,3.9
+,Oregon,"9,933","13,049","3,262","3,739","1,993","2,318",3,3.5,5,5.6
+,Utah,"4,872","5,461","1,576","1,380",893,"1,073",3.1,4,5.5,5.1
+,Washington,"14,682","16,146","5,678","6,064","3,757","3,599",2.6,2.7,3.9,4.5
+,Wyoming,"2,186","1,420",823,595,477,370,2.7,2.4,4.6,3.8
+"Note: Includes all full-time, parttime, payroll, nonpayroll, and contract employees. Excludes community volunteers.",,,,,,,,,,,
+"a/To estimate the total number of employees, the total number of facilities nationwide was divided by the number of facilities reporting employees and multiplied by the reported number of employees.",,,,,,,,,,,
+b/Includes facilities operated by both federal and state authorities.,,,,,,,,,,,
+c/Includes private facilities.,,,,,,,,,,,
+d/The total number of facilities in 2005 are as of June 30.
+"e/Includes public staff from the Illinois Department of Corrections, June 30, 2005 and private staff figures as reported in the BJS 2005 Census of State and Federal Correctional Facilities. Numbers of men and women are based on the proportionate weighting of the number of male and female employees in the 2000 Census."
+"f/As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005."
+"g/Includes employees from the Califiornia Department of Corrections, 4th quarter 2005; and private employees as reported in the BJS 2005 Census of State and Federal Correctional Facilities. Numbers of men and women are based on the proportionate weighting of the number of male and female employees in the 2000 Census. "

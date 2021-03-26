@@ -1,0 +1,83 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+Filename: csfcf05at18.csv,,,,,,,,,,,,,
+"Appendix table 18.  Number of facilities under state or federal authority that provided educational programs to inmates, December 30, 2005 ",,,,,,,,,,,,,
+"Report title: Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,,,,,,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,,,,,,,,,
+Author:  James J. Stephan,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov (202)307-0765,,,,,,,,,,,,,
+Date of version:  09/30/08,,,,,,,,,,,,,
+
+"Appendix table 18.  Number of facilities under state or federal authority that provided educational programs to inmates, December 30, 2005 ",,,,,,,,,,,,,
+
+,,,Facilities providing programs in --,,,,,,,,,,
+Region and authority,,Total number of facilities,Any education,Lower Basic adult education\a,Upper Basic adult education\b,Secondary education \c,Special education\d,English as a second language (ESL),Vocational training,College courses,Study release,Other,No educational programs
+U.S. total,,"1,821","1,550","1,229","1,203","1,399",667,632,956,642,135,241,165
+,Public\e,1406,"1,303",1089,1062,1215,608,567,847,563,64,202,94
+,Private,415,247,140,141,184,59,65,109,79,71,39,71
+,Federal,102,100,100,100,100,100,100,100,100,0,0,0
+,State\f,1719,1450,1129,1103,1299,567,532,856,542,135,241,165
+Region (excluding federal),,,,,,,,,,,,,
+Northeast,,268,208,170,169,189,81,118,151,53,29,48,31
+,Connecticut,49,34,23,22,27,20,20,17,2,7,4,7
+,Maine,7,6,5,5,5,1,0,5,5,1,0,1
+,Massachusetts/g,17,16,13,11,16,2,12,13,5,2,1,0
+,New Hampshire,8,8,3,4,4,3,2,4,2,3,1,0
+,New Jersey,42,35,26,27,31,14,16,23,17,13,6,1
+,New York,77,68,59,59,63,17,42,55,15,2,10,7
+,Pennsylvania,52,27,26,26,27,8,23,26,0,0,26,15
+,Rhode Island,7,7,7,7,7,7,3,3,6,1,0,0
+,Vermont,9,9,8,8,9,9,0,5,1,0,0,0
+Midwest,,342,290,228,207,261,103,66,170,123,37,54,31
+,Illinois,44,39,35,23,38,5,2,32,20,1,0,2
+,Indiana,23,22,19,14,18,9,5,12,13,4,4,1
+,Iowa,31,29,15,17,26,5,9,11,19,4,2,0
+,Kansas,13,11,9,8,11,5,1,8,7,1,1,1
+,Michigan,62,65,48,46,51,15,13,37,7,8,15,3
+,Minnesota,18,14,13,13,13,5,7,7,5,1,2,3
+,Missouri,28,22,16,16,20,12,3,9,9,1,6,4
+,Nebraska,9,8,6,6,8,3,5,4,6,4,0,1
+,North Dakota,8,6,4,4,4,2,1,2,2,4,0,1
+,Ohio,59,48,37,36,41,27,4,29,25,6,14,7
+,South Dakota,6,4,2,3,4,3,3,3,2,2,2,0
+,Wisconsin,41,32,24,21,27,12,13,16,8,1,8,8
+South,,779,687,527,531,618,254,197,364,208,27,107,60
+,Alabama,33,29,16,15,25,5,1,12,1,0,4,2
+,Arkansas,26,25,25,25,23,15,21,5,4,1,0,1
+,Delaware,12,9,5,5,7,4,1,3,5,1,1,3
+,District of Columbia\h,5,4,4,3,4,2,3,3,1,1,0,1
+,Florida,109,87,45,45,46,55,34,37,1,1,27,22
+,Georgia,87,85,62,60,82,12,5,29,5,0,6,0
+,Kentucky,25,24,20,21,24,3,3,15,18,2,0,1
+,Louisiana,23,20,18,18,19,9,3,12,12,1,4,3
+,Maryland,29,25,15,16,23,8,1,11,6,0,3,1
+,Mississippi,31,29,18,16,29,7,3,10,7,0,1,0
+,North Carolina,88,81,54,55,77,11,19,53,43,11,7,1
+,Oklahoma,53,49,42,41,49,11,6,24,21,1,5,4
+,South Carolina,33,29,29,29,28,6,0,18,0,0,1,0
+,Tennessee,19,16,13,12,13,6,0,11,4,2,2,2
+,Texas,132,105,94,103,102,45,38,84,51,2,3,19
+,Virginia,59,58,57,57,56,47,55,29,23,0,42,0
+,West Virginia,15,12,10,10,11,8,4,8,6,4,1,0
+West,,330,265,204,196,231,129,151,171,158,42,32,43
+,Alaska,21,16,13,13,15,7,5,9,9,4,4,3
+,Arizona,21,17,16,15,15,10,5,13,11,0,2,2
+,California,100,80,68,66,74,62,67,65,63,9,7,17
+,Colorado,58,39,32,33,38,12,19,25,24,5,3,9
+,Hawaii,10,10,8,8,8,8,9,9,8,1,0,0
+,Idaho,15,13,11,10,11,5,4,6,1,0,1,1
+,Montana,11,11,8,6,8,1, ,2,2,4,1,0
+,Nevada,22,18,9,9,16,6,10,9,10,3,3,3
+,New Mexico,11,9,8,7,8,8,7,7,6,3,2,0
+,Oregon,15,13,8,7,10,4,8,4,2,3,2,2
+,Utah,7,6,3,3,4,2,2,2,2,2,3,0
+,Washington,32,27,15,15,18,0,14,16,16,6,4,5
+,Wyoming,7,6,5,4,6,4,1,4,4,2,0,1
+Note:  Information on education programs was not reported in 42 state facilities.,,,,,,,,,,,,,
+a/Includes literacy training and first- to fourth-grade level education.,,,,,,,,,,,,,
+b/Includes fifth- to eighth-grade level education.,,,,,,,,,,,,,
+c/Includes GED.,,,,,,,,,,,,,
+d/Includes programs for inmates with learning disabilities.,,,,,,,,,,,,,
+e/Includes facilities operated by both federal and state authorities.,,,,,,,,,,,,,
+f/Includes private facilities.
+g/The total number of facilities are as of June 30. 
+"h/As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005."

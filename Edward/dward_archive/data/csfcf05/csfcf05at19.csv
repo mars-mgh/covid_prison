@@ -1,0 +1,81 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+Filename: csfcf05at19.csv,,,,,,,,,,,,,
+"Appendix table 19.  Number of facilities under state or federal authority that provided counseling programs to inmates, December 30, 2005 ",,,,,,,,,,,,,
+"Report title: Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,,,,,,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,,,,,,,,,
+Author:  James J. Stephan,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov (202)307-0765,,,,,,,,,,,,,
+Date of version:  09/30/08,,,,,,,,,,,,,
+
+"Appendix table 19.  Number of facilities under state or federal authority that provided counseling programs to inmates, December 30, 2005 ",,,,,,,,,,,,,
+
+,,,Facilities providing programs in --,,,,,,,,,,
+Region and authority,,Total number of facilities,Any counseling,Drug dependency counseling or awareness,Alcohol dependency counseling or awareness,Psychological or psychiatric counseling,HIV/AIDS counseling,Sex offender counseling ,Job-seeking counseling,Life skills and community adjustment counseling/a,Parenting and child rearing counseling,Other counseling,No counseling provided
+U.S. total,,"1,821","1,676","1,345","1,344","1,054",996,662,"1,332","1,421",873,279,40
+,Public /b,"1,406","1,368","1,081","1,087",912,814,596,"1,077",1141,676,212,29
+,Private,415,308,264,257,142,182,66,255,280,197,67,11
+,Federal,102,100,100,100,100,100,100,100,100,99,0,0
+,State /c,"1,719","1,576","1,245","1,244",954,896,562,"1,232",1321,774,279,40
+Region (excluding federal),,,,,,,,,,,,,
+Northeast,,268,238,221,221,172,197,104,197,211,161,78,1
+,Connecticut,49,41,40,38,27,35,17,34,38,27,5,0
+,Maine,7,7,6,7,5,5,5,6,7,6,1,0
+,Massachusetts/d,17,16,14,15,13,13,4,8,13,10,1,0
+,New Hampshire,8,8,6,6,6,6,3,6,6,3,0,0
+,New Jersey,42,36,33,34,22,25,6,26,31,21,13,0
+,New York,77,72,69,68,46,57,24,65,66,40,16,1
+,Pennsylvania,52,42,42,42,39,42,39,42,42,42,40,0
+,Rhode Island,7,7,5,5,7,7,3,3,2,5,1,0
+,Vermont,9,9,6,6,7,7,3,7,6,7,1,0
+Midwest,,342,319,283,282,233,168,137,271,268,200,67,2
+,Illinois/e,44,40,33,33,22,7,12,32,32,17,1,1
+,Indiana,23,23,22,22,13,17,4,19,17,16,5,0
+,Iowa,31,29,24,25,21,12,22,24,25,26,1,0
+,Kansas,13,12,11,11,9,7,6,10,11,7,2,0
+,Michigan,62,58,57,55,49,33,39,49,45,26,14,0
+,Minnesota,18,17,13,13,12,5,5,11,15,12,4,0
+,Missouri,28,26,22,23,24,23,9,19,22,18,2,0
+,Nebraska,9,9,8,8,6,5,4,9,6,4,2,0
+,North Dakota,8,7,7,7,4, ,3,4,7,5,3,0
+,Ohio,59,55,54,54,42,41,18,55,51,43,19,0
+,South Dakota,6,4,4,4,4,2,4,4,4,4,1,0
+,Wisconsin,41,39,28,27,27,16,11,35,33,22,13,1
+South,,779,731,506,506,371,386,194,525,593,250,97,17
+,Alabama,33,30,29,28,8,2,2,2,11,3,2,1
+,Arkansas,26,25,25,25,25,25,11,11,24,10,1,1
+,Delaware,12,12,11,12,10,11,5,8,6,7,0,0
+,District of Columbia/f,5,4,4,4,3,4,1,4,4,3,0,0
+,Florida,109,109,9,9,60,107,53,107,108,10,3,0
+,Georgia,87,85,79,75,41,38,16,59,62,14,21,0
+,Kentucky,25,25,24,24,14,15,6,19,23,17,6,0
+,Louisiana,23,22,21,21,11,18,11,21,18,17,6,1
+,Maryland,29,26,19,21,16,13,3,16,14,5,2,0
+,Mississippi,31,28,25,26,10,12,3,11,13,8,6,1
+,North Carolina,88,83,76,77,57,41,15,54,59,35,12,0
+,Oklahoma,53,46,35,33,27,21,10,28,35,23,13,7
+,South Carolina,33,29,27,27,16,4,12,20,25,8,1,0
+,Tennessee,19,18,18,18,16,11,13,18,17,13,3,0
+,Texas,132,119,37,38,11,19,7,90,109,39,1,6
+,Virginia,59,58,55,56,36,38,18,49,56,31,16,0
+,West Virginia,15,12,12,12,10,7,8,8,9,7,4,0
+West,,330,288,235,235,178,145,127,239,249,163,37,20
+,Alaska,21,14,8,10,7,6,4,10,13,11,1,5
+,Arizona,21,19,19,19,14,12,9,17,17,15,2,0
+,California,100,85,80,80,64,68,61,77,77,23,8,12
+,Colorado,58,46,42,41,32,13,10,31,46,22,7,2
+,Hawaii,10,10,10,10,9,10,8,10,10,10,1,0
+,Idaho,15,14,13,14,9,4,5,13,11,7,5,0
+,Montana,11,11,10,9,6,6,3,9,11,10,3,0
+,Nevada,22,21,19,18,12,5,6,13,13,13,3,0
+,New Mexico,11,9,9,9,7,7,8,8,8,9,1,0
+,Oregon,15,14,11,11,7,6, ,10,12,12,2,1
+,Utah,7,6,3,3,3,3,5,4,5,4,2,0
+,Washington,32,32,4,4,2,1,1,31,19,23,2,0
+,Wyoming,7,7,7,7,6,4,7,6,7,4,0,0
+Note: Information on counseling  programs was not reported in 41 facilities.,,,,,,,,,,,,,
+a/Includes personal finance and conflict resolution counseling.,,,,,,,,,,,,,
+b/Includes facilities operated by both federal and state authorities.,,,,,,,,,,,,,
+c/Includes private facilities.,,,,,,,,,,,,,
+d/The total number of facilities in 2005 are as of June 30. ,,,,,,,,,,,,,
+e/The total number of facilities in 2005 were reported by the Illinois Department of Corrections as of June 30.,,,,,,,,,,,,,
+"f/As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005."

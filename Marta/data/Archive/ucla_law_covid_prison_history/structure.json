@@ -1,0 +1,77 @@
+{
+ "checksum": "QmdGUkWxp94V7gucrJUNAdrDjt7rx9Pdq9E5QrisgngLxQ",
+ "depth": 2,
+ "entries": 76073,
+ "errCount": 304292,
+ "format": "csv",
+ "formatConfig": {
+  "headerRow": true,
+  "lazyQuotes": true
+ },
+ "length": 58868250,
+ "qri": "st:0",
+ "schema": {
+  "items": {
+   "items": [
+    {
+     "title": "Address",
+     "type": "string"
+    },
+    {
+     "title": "Coder",
+     "type": "string"
+    },
+    {
+     "title": "Date",
+     "type": "string"
+    },
+    {
+     "title": "Facility",
+     "type": "string"
+    },
+    {
+     "title": "Name",
+     "type": "string"
+    },
+    {
+     "title": "Notes",
+     "type": "string"
+    },
+    {
+     "title": "Resident_Deaths",
+     "type": "integer"
+    },
+    {
+     "title": "Residents_Confirmed",
+     "type": "integer"
+    },
+    {
+     "title": "Residents_Recovered",
+     "type": "integer"
+    },
+    {
+     "title": "Staff_Confirmed",
+     "type": "integer"
+    },
+    {
+     "title": "Staff_Deaths",
+     "type": "integer"
+    },
+    {
+     "title": "Staff_Recovered",
+     "type": "integer"
+    },
+    {
+     "title": "State",
+     "type": "string"
+    },
+    {
+     "title": "Website",
+     "type": "string"
+    }
+   ],
+   "type": "array"
+  },
+  "type": "array"
+ }
+}

@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+Filename: p19t10.csv,,,,,,,,,,,,,,
+"Table 10. Imprisonment rates of U.S. residents, based on sentenced prisoners under the jurisdictions of state and federal correctional authorities, by demographic characteristics, December 31, 2019",,,,,,,,,,,,,,
+Report title: Prisoners in 2019  NCJ 255115,,,,,,,,,,,,,,
+"Data Source: Bureau of Justice Statistics, Federal Justice Statistics Program, 2019 (preliminary), National Corrections Reporting Program, 2018, National Prisoner Statistics, 2019, and Survey of Prison Inmates, 2016; and U.S. Census Bureau, post-censal resident population estimates for January 1, 2020",,,,,,,,,,,,,,
+"Author: E. Ann Carson, Ph.D., BJS Statistician",,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,,,,,
+Date of version: 10/22/2020,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Table 10. Imprisonment rates of U.S. residents, based on sentenced prisoners under the jurisdictions of state and federal correctional authorities, by demographic characteristics, December 31, 2019",,,,,,,,,,,,,,
+,,"Per 100,000 U.S. residents in a given category",,,,,,,,,,,,
+,,,,Male,,,,,,Female,,,,
+Age,,Total,,All male,White/a,Black/a,Hispanic,"Other/a,b",,All female,White/a,Black/a,Hispanic,"Other/a,b"
+,Total/c,419,,789,385,"2,203",979,"1,176",,61,48,83,63,109
+18-19,,107,,201,58,720,188,222,,10,6,20,12,11
+20-24,,520,,949,347,"2,772","1,105","1,133",,71,49,116,78,118
+25-29,,907,,"1,633",707,"4,158","1,957","2,091",,149,120,186,150,239
+30-34,,988,,"1,776",891,"4,496","2,156","2,404",,178,156,199,178,276
+35-39,,"1,000",,"1,829",958,"4,832","2,181","2,687",,169,148,187,164,270
+40-44,,854,,"1,590",821,"4,334","1,877","2,348",,126,110,151,114,201
+45-49,,690,,"1,299",696,"3,553","1,500","2,023",,95,83,128,82,144
+50-54,,551,,"1,046",561,"2,970","1,210","1,697",,70,54,110,64,123
+55-59,,398,,774,418,"2,227",972,"1,318",,42,32,68,42,83
+60-64,,242,,483,254,"1,404",705,895,,20,14,32,20,48
+65 or older,,81,,175,101,485,317,362,,5,4,9,6,15
+,Number of sentenced prisoners ,"1,380,427",,"1,279,079","374,900","435,000","301,700","167,400",,"101,348","47,900","17,800","19,000","16,600"
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Rates and counts are based on sentenced prisoners under the jurisdiction of state or federal correctional officials. Imprisonment rate is the number of sentenced prisoners under state or federal jurisdiction per 100,000 U.S. residents, or per 100,000 U.S. residents in a given category. Resident population estimates are from the U.S. Census Bureau for January 1, 2020. Totals include imputed counts for Oregon, which did not submit 2019 National Prisoner Statistics data. See Methodology.",,,,,,,,,,,,,,
+"a/Excludes persons of Hispanic origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks). See Methodology.",,,,,,,,,,,,,,
+"b/Includes Asians, Native Hawaiians, other Pacific Islanders, American Indians, Alaska Natives, and persons of two or more races that are not broken out by race.",,,,,,,,,,,,,,
+"c/Includes persons of all ages, including those age 17 or younger.",,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, Federal Justice Statistics Program, 2019 (preliminary), National Corrections Reporting Program, 2018, National Prisoner Statistics, 2019, and Survey of Prison Inmates, 2016; and U.S. Census Bureau, post-censal resident population estimates for January 1, 2020.",,,,,,,,,,,,,,

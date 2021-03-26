@@ -1,0 +1,79 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: csfcf05at02.csv,,,,,,,
+"Appendix table 2.  Number of correctional facilities under state or federal authority, by type, June 30, 2000, and December 30, 2005",,,,,,,
+"Report title:  Census of State and Federal Correctional Facilities, 2005 NCJ 222182 ",,,,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,,,
+Author:  James J. Stephan ,,,,,,,
+Refer questions to: askbjs@usdoj.gov (202)307-0765,,,,,,,
+Date of version:  09/30/08,,,,,,,
+
+"Appendix table 2.  Number of correctional facilities under state or federal authority, by type, June 30, 2000, and December 30, 2005",,,,,,,
+
+,,All facilities,,Confinement facilities,,Community-based facilities,
+Region and authority,,2000,2005,2000,2005,2000,2005
+U.S. total,,"1,668","1,821","1,208","1,292",460,529
+,Public/a,"1,404","1,406","1,107","1,185",297,221
+,Private,264,415,101,107,163,308
+,Federal,84,102,84,102,0,0
+,State/b,"1,584","1,719","1,124","1,190",460,529
+Region (excluding federal),,,,,,,
+Northeast,,236,268,175,173,61,95
+,Connecticut,20,49,20,21,0,28
+,Maine,8,7,6,5,2,2
+,Massachusetts/c,25,17,18,13,7,4
+,New Hampshire,8,8,5,5,3,3
+,New Jersey,43,42,25,23,18,19
+,New York,72,77,63,63,9,14
+,Pennsylvania,44,52,25,28,19,24
+,Rhode Island,7,7,6,7,1,0
+,Vermont,9,9,7,8,2,1
+Midwest,,301,342,238,234,63,108
+,Illinois/d,48,44,36,34,12,10
+,Indiana,25,23,21,18,4,5
+,Iowa,30,31,8,9,22,22
+,Kansas,11,13,10,10,1,3
+,Michigan,70,62,61,52,9,10
+,Minnesota,9,18,9,13,0,5
+,Missouri,28,28,25,22,3,6
+,Nebraska,9,9,7,7,2,2
+,North Dakota,3,8,3,4,0,4
+,Ohio,34,59,34,34,0,25
+,South Dakota,4,6,3,3,1,3
+,Wisconsin,30,41,21,28,9,13
+South,,743,779,528,560,215,219
+,Alabama,36,33,19,18,17,15
+,Arkansas,15,26,8,21,7,5
+,Delaware,9,12,5,8,4,4
+,District of Columbia/e,8,5,3,0,5,5
+,Florida,106,109,69,69,37,40
+,Georgia,84,87,57,60,27,27
+,Kentucky,25,25,15,15,10,10
+,Louisiana,17,23,10,14,7,9
+,Maryland,26,29,18,22,8,7
+,Mississippi,28,31,9,29,19,2
+,North Carolina,80,88,68,73,12,15
+,Oklahoma,52,53,28,26,24,27
+,South Carolina,34,33,24,22,10,11
+,Tennessee,15,19,15,15,0,4
+,Texas,136,132,121,111,15,21
+,Virginia,61,59,50,47,11,12
+,West Virginia,11,15,9,10,2,5
+West,,304,330,183,223,121,107
+,Alaska,24,21,14,15,10,6
+,Arizona,18,21,15,15,3,6
+,California,92,100,50,87,42,13
+,Colorado,48,58,27,31,21,27
+,Hawaii,10,10,8,8,2,2
+,Idaho,13,15,8,9,5,6
+,Montana,8,11,4,6,4,5
+,Nevada,20,22,12,16,8,6
+,New Mexico,10,11,10,8,0,3
+,Oregon,13,15,13,9,0,6
+,Utah,9,7,4,2,5,5
+,Washington,30,32,13,14,17,18
+,Wyoming,9,7,5,3,4,4
+a/Includes facilities operated by both federal and state authorities.,,,,,,,
+b/Includes private facilities.,,,,,,,
+c/The total number of facilities in 2005 are as of June 30. ,,,,,,,
+"d/The total number of facilities in 2005 were reported by the Illinois Department of Corrections as of June 30.  Confinement and community-based facilities are estimated based on the total number of facilities reported by the Department of Corrections and their proportionate distributions on June 30, 2000.",,,,,,,
+"e/As of December 30, 2001, sentenced felons from the District of Columbia were the reponsibility of the Federal Bureau of Prisons. Some inmates were housed in private facilities under contract to the District of Columbia on December 30, 2005.",,,,,,,

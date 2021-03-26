@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,
+Filename: csfcf05t04.csv,,,,
+"Table 4. Number of employees in correctional facilities under state or federal authority, by gender and occupational category",,,,
+"Report title: Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,
+Author: James J. Stephan,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,
+Date of version: 9/17/08,,,,
+
+"Table 4. Number of employees in correctional facilities under state or federal authority, by gender and occupational category",,,,
+
+,,Number,Percent,
+Gender/a,,,,
+,Male,"296,852",67,%
+,Female,"148,203",33,
+Occupational category/b,,,,
+,Administrators,"10,769",2,%
+,Correctional officers,"295,261",66,
+,Clerical/maintenance,"51,993",12,
+,Educational,"11,526",3,
+,Professional/technical,"46,016",10,
+,Other/not available,"29,489",7,
+"a/For federal, state, and regional data, see appendix table 12.",,,,
+"b/For federal, state, and regional data, see appendix table 13.",,,,

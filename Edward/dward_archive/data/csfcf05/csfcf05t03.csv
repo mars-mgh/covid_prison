@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,,,
+Filename: csfcf05t03.csv,,,,,
+"Table 3. Number of inmates in correctional facilities under state or federal authority, by gender and type of facility, and ratio of male to female inmates, 2005",,,,,
+"Report title: Census of State and Federal Correctional Facilities, 2005 NCJ 222182",,,,,
+"Data source: Census of State and Federal Correctional Facilities, 2005",,,,,
+Author: James J. Stephan,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,
+Date of version: 9/17/08,,,,,
+
+"Table 3. Number of inmates in correctional facilities under state or federal authority, by gender and type of facility, and ratio of male to female inmates, 2005",,,,,
+
+,Total,Male,Female,Not reported,Number of male inmates per female inmate
+All facilities*,"1,430,208","1,317,492","97,205","15,511",14
+Confinement,"1,375,975","1,273,594","91,697","10,684",14
+Community-based,"54,233","43,881","5,525","4,827",8
+"*For federal, state, and regional data, see appendix tables 10 and 11.",,,,,

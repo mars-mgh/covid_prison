@@ -1,0 +1,11 @@
+{
+ "author": {
+  "id": "QmRTirNhEPZVidxLZkjVFPMzM4M3gxddcTA1sBkdasGtw3"
+ },
+ "message": "structure:\n\tupdated errCount\nreadme:\n\tremoved scriptBytes\nbody changed",
+ "path": "/ipfs/QmZ4sQSzAqXjhDHU6eFE9yaC4hHFodjfgmHSa9hjZz3qhq",
+ "qri": "cm:0",
+ "signature": "prvTSF0RXMyregBIyO9zmxM5QJFuxoW0SVcDLy40IWYb/DIQGPWmbB/+Um0yAAgxQyWchTzLvR3T8kTist4S2mSnFp68vnyPbKdDRxKUt49/vBlUZg9sqSCQxo526SUSnj1cMTKDV39PuOwF4I6MF2DQSl0obGxy7VoPkbih8mZO1FY8pyJyg2il2r4DkJs+THOLyQpuzutQCPQaHkWvL8O/Jb6VYQZrm9a9kX/FvLOhOUxs61AuKigD9sKqjH08y719K454p04edBe048QZom/AFNhQshgZFcJFd7byLrrUuj7vrx+IfLRT5aH4ZhusKHyy6WkhMX4iJygiJBfRdw==",
+ "timestamp": "2020-08-07T18:15:10.657319573Z",
+ "title": "updated structure, readme, and body"
+}
